@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 📫 How to reach me **rishi15vejani2006@gmail.com**
+- 🌱 I’m currently learning C and JavaScript
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
