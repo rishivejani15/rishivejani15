@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Java, Data Structures, C#<br>🔭 I’ve worked on Projects :<br>Seekers : https://seekersjob.netlify.app/<br>Story Verse : https://story-verse.netlify.app/<br><br>Quizify : https://quizify-go7t.onrender.com/<br>💬 Ask me anything on this email : rishi15vejani2006@gmail.com
+🌱 I’m currently learning Java, Data Structures, C#<br>🔭 I’ve worked on Projects :<br>Seekers : https://seekersjob.netlify.app/<br>Story Verse : https://story-verse.netlify.app/<br>Quizify : https://quizify-go7t.onrender.com/<br>💬 Ask me anything on this email : rishi15vejani2006@gmail.com
 
 
 ## 🌐 Socials:
