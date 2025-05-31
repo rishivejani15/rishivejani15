@@ -1,5 +1,4 @@
 # 💫 About Me:  
-🌱 I’m currently learning Java, Data Structures, C#, Flutter, Firebase, and Kotlin  
 🔭 I’ve worked on Projects:  
 **Smart Pillbox** – A smart medication management system that helps users track medicine intake, set reminders, and monitor adherence using Flutter and Firebase.  
 Seekers: https://seekersjob.netlify.app/  
