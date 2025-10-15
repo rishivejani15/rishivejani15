@@ -62,15 +62,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rishivejani15&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishivejani15&langs_count=8&layout=compact&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishivejani15&theme=radical" height="160"/>
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishivejani15&theme=algolia&margin-w=8&margin-h=10&layout=compact&title=Followers,Stars,Commit,Repositories,PullRequest,Issues,Contributions" />
 </p>
 
 ---
