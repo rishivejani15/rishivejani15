@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishi</h1>
 <h3 align="center">🚀 Passionate Software Developer from India</h3>
 
-<p align="center">
-  &nbsp; <a href="mailto:rishi15vejani2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 - 🎓 **B.Tech in Information Technology** @ Dwarkadas J. Sanghvi College of Engineering
@@ -47,6 +41,7 @@
 ## 🌐 Connect
 
 <p align="center">
+  <a href="mailto:rishi15vejani2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/rishi-vejani-56b923257" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.codechef.com/users/rishixd" target="blank"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/rishi15vejani201" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
