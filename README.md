@@ -17,7 +17,6 @@
   - Python backend, API integration, deployment, and debugging.
 - 🏆 **Hackathon Winner & Finalist**
   - HackMania, ACE Hacks, PolyHacks, Code Hunt, Code Carnival, and more.
-- 💡 **Market Minds** Non-Tech Lead @ Enigma
 
 ---
 
