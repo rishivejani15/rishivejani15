@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Software Developer from India</h3>
 
 <p align="center">
-  <!-- Replace the image URL below with your own banner if you want a custom one! -->
+  <!-- Replace with your banner! -->
   <img src="https://github.com/rishivejani15/rishivejani15/assets/placeholder/banner.png" alt="Rishi's banner" style="border-radius:8px;max-width:100%" width="100%" />
 </p>
 
@@ -16,14 +16,55 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building: **Next-gen web apps, ML tools, freelance solutions**
-- 🌱 Learning: **Cloud Architecture | DevOps | Deep Learning | Next.js**
-- 💡 Love solving: **Real-world problems | Code puzzles | Business challenges**
-- 🤝 Open for: **Collaboration, mentorship, open source, hackathons**
-- 💬 Ask about: **Software Engineering | Competitive Programming | AI/ML**
-- 🥇 Contestant at **ICPC | CodeChef | LeetCode | Hackerrank**
-- 🏆 Achievements: **National Finalist @ CodeChef | Top 1% on LeetCode | Hackathon WINNER**
-- ⚡ Fun fact: _I debug with coffee._ ☕️
+- 🎓 **B.Tech in Information Technology** @ Dwarkadas J. Sanghvi College of Engineering
+- 🏅 **Diploma in Computer Engineering** | 94% | Shri Bhagubhai Mafatlal Polytechnic
+- 🚀 **Software Developer Intern** @ Collateral Medical Pvt Ltd
+  - Built scalable **Flutter** apps for Android/iOS, improved CI/CD and troubleshooting.
+- 🌐 **Web Developer Intern** @ Igiene
+  - Python backend, API integration, deployment, and debugging.
+- 🏆 **Hackathon Winner & Finalist**
+  - HackMania, ACE Hacks, PolyHacks, Code Hunt, Code Carnival, and more.
+- 💡 **Market Minds** Non-Tech Lead @ Enigma
+
+---
+
+## 🛠️ Skills & Technologies
+
+- **App Development:** Flutter, Kotlin
+- **Full-Stack:** HTML, CSS, Javascript, Python, Java, C, PHP, Flask, Django, React
+- **Databases:** Firebase, MongoDB, MySQL, Oracle, DBMS
+- **AI/ML:** TensorFlow, Scikit-learn, Pandas, PyTorch, OCR, Google ML Kit, Gemini AI
+- **Cloud & DevOps:** AWS, Firebase Auth, Firestore, FCM, CI/CD, API integration
+- **Tools:** Postman, Microsoft Office
+- **Languages:** English, Hindi, Gujarati
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,aws,django,flask,flutter,html,css,tailwind,bootstrap,mysql,mongodb,oracle,pandas,scikit-learn,seaborn,tensorflow,pytorch,php,dart,kotlin,postman" />
+</p>
+
+---
+
+## 🚩 Featured Projects
+
+- **[Smart Pillbox](#):** AI and IoT-based medication manager (Flutter mobile + ESP32-CAM hardware)
+  - Automated pill dispensing, AI intake verification (TensorFlow Lite), OCR and Gemini AI,  real-time alerts, caregiver portal, cloud sync.
+- **[Online Multiplayer Quiz Game](#):** Python Flask + HTML/CSS/JavaScript, real-time secure quiz, leaderboards, and instant feedback.
+- **[Story Verse](#):** Hackathon-built, interactive story sharing platform.
+- **[CodeHack](https://github.com/rishivejani15/codehack):** Online judge platform for coding contests.
+- **[Personal Portfolio](https://github.com/rishivejani15/portfolio):** Interactive, animated showcase of skills and achievements.
+
+<details>
+  <summary>👀 View more projects</summary>
+  <p>See all my public repositories on <a href="https://github.com/rishivejani15?tab=repositories">GitHub</a>.</p>
+</details>
+
+---
+
+## 🏅 Certifications & Achievements
+
+- Winner, Runner up, and Finalist in 10+ coding, quiz & hackathon contests
+- Multiple event leadership and volunteering experiences
+- CodeChef 4⭐ | LeetCode Top 1% | Hackerrank Expert | Codeforces Expert
 
 ---
 
@@ -39,14 +80,6 @@
 
 ---
 
-## 🚀 Technical Toolkit
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,aws,django,flask,flutter,html,css,tailwind,bootstrap,mysql,mongodb,oracle,pandas,scikit-learn,seaborn,tensorflow,pytorch,php,dart,kotlin,opengl,postman" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -57,34 +90,10 @@
 
 ---
 
-## 🏆 Top Projects
-
-- **[Smart ML Pipeline](https://github.com/rishivejani15/smart-ml-pipeline):** Automated ML workflow with data validation, model selection, and deployment.
-- **[CodeHack](https://github.com/rishivejani15/codehack):** Online judge platform supporting multi-language and real-time contests.
-- **[Personal Portfolio](https://github.com/rishivejani15/portfolio):** Showcases skills, achievements, and contact info with dynamic animations.
-
-<details>
-  <summary>👀 View more projects</summary>
-  <p>See all my public repositories on <a href="https://github.com/rishivejani15?tab=repositories">GitHub</a>.</p>
-</details>
-
----
-
-## 🏅 Trophies
+## 🏆 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rishivejani15&theme=algolia&margin-w=8&margin-h=10&layout=compact&title=Followers,Stars,Commit,Repositories,PullRequest,Issues,Contributions" />
-</p>
-
----
-
-## 🏆 Competitive Programming
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CodeChef-4⭐-brightgreen?logo=codechef" />
-  <img src="https://img.shields.io/badge/LeetCode-Top%201%25-yellow?logo=leetcode" />
-  <img src="https://img.shields.io/badge/Hackerrank-Expert-green?logo=hackerrank" />
-  <img src="https://img.shields.io/badge/Codeforces-Expert-blue?logo=codeforces" />
 </p>
 
 ---
