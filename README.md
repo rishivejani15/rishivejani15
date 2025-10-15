@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rishi</h1>
 <h3 align="center">🚀 Passionate Software Developer from India</h3>
+
+<p align="center">
+  <!-- Replace the image URL below with your own banner if you want a custom one! -->
+  <img src="https://github.com/rishivejani15/rishivejani15/assets/placeholder/banner.png" alt="Rishi's banner" style="border-radius:8px;max-width:100%" width="100%" />
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rishivejani15&label=Profile%20views&color=0e75b6&style=flat" alt="rishivejani15" />
   &nbsp; <img src="https://img.shields.io/github/followers/rishivejani15?label=Followers&style=for-the-badge" alt="GitHub followers" />
   &nbsp; <a href="mailto:rishi15vejani2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" width="320"/>
 </p>
 
 ---
@@ -57,7 +57,7 @@
 
 ---
 
-## 🚩 Top Projects
+## 🏆 Top Projects
 
 - **[Smart ML Pipeline](https://github.com/rishivejani15/smart-ml-pipeline):** Automated ML workflow with data validation, model selection, and deployment.
 - **[CodeHack](https://github.com/rishivejani15/codehack):** Online judge platform supporting multi-language and real-time contests.
@@ -67,6 +67,14 @@
   <summary>👀 View more projects</summary>
   <p>See all my public repositories on <a href="https://github.com/rishivejani15?tab=repositories">GitHub</a>.</p>
 </details>
+
+---
+
+## 🏅 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rishivejani15&theme=algolia&margin-w=8&margin-h=10&layout=compact&title=Followers,Stars,Commit,Repositories,PullRequest,Issues,Contributions" />
+</p>
 
 ---
 
@@ -81,14 +89,11 @@
 
 ---
 
-## ✍️ Blog & Writing
+## 💬 Random Dev Quote
 
-<!-- BLOG-POST-LIST:START -->
-- [How I cracked my first coding interview 🚀](#)
-- [Why Deep Learning matters in 2025 🤖](#)
-<!-- BLOG-POST-LIST:END -->
-
-*Want to see more?* [Dev.to](#) | [Medium](#)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ---
 
@@ -96,5 +101,5 @@
 
 <p align="center"> 
   <b>Thanks for visiting my profile!</b><br>
-  <i>Let's connect, work together and make a difference 🚀</i>
+  <i>Let's connect, work together, and make a difference 🚀</i>
 </p>
