@@ -2,13 +2,6 @@
 <h3 align="center">🚀 Passionate Software Developer from India</h3>
 
 <p align="center">
-  <!-- Replace with your banner! -->
-  <img src="https://github.com/rishivejani15/rishivejani15/assets/placeholder/banner.png" alt="Rishi's banner" style="border-radius:8px;max-width:100%" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishivejani15&label=Profile%20views&color=0e75b6&style=flat" alt="rishivejani15" />
-  &nbsp; <img src="https://img.shields.io/github/followers/rishivejani15?label=Followers&style=for-the-badge" alt="GitHub followers" />
   &nbsp; <a href="mailto:rishi15vejani2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -36,7 +29,6 @@
 - **AI/ML:** TensorFlow, Scikit-learn, Pandas, PyTorch, OCR, Google ML Kit, Gemini AI
 - **Cloud & DevOps:** AWS, Firebase Auth, Firestore, FCM, CI/CD, API integration
 - **Tools:** Postman, Microsoft Office
-- **Languages:** English, Hindi, Gujarati
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,aws,django,flask,flutter,html,css,tailwind,bootstrap,mysql,mongodb,oracle,pandas,scikit-learn,seaborn,tensorflow,pytorch,php,dart,kotlin,postman" />
@@ -46,25 +38,10 @@
 
 ## 🚩 Featured Projects
 
-- **[Smart Pillbox](#):** AI and IoT-based medication manager (Flutter mobile + ESP32-CAM hardware)
+- **[Smart Pillbox](https://github.com/rishivejani15/smart-pillbox):** AI and IoT-based medication manager (Flutter mobile + ESP32-CAM hardware)
   - Automated pill dispensing, AI intake verification (TensorFlow Lite), OCR and Gemini AI,  real-time alerts, caregiver portal, cloud sync.
-- **[Online Multiplayer Quiz Game](#):** Python Flask + HTML/CSS/JavaScript, real-time secure quiz, leaderboards, and instant feedback.
-- **[Story Verse](#):** Hackathon-built, interactive story sharing platform.
-- **[CodeHack](https://github.com/rishivejani15/codehack):** Online judge platform for coding contests.
-- **[Personal Portfolio](https://github.com/rishivejani15/portfolio):** Interactive, animated showcase of skills and achievements.
-
-<details>
-  <summary>👀 View more projects</summary>
-  <p>See all my public repositories on <a href="https://github.com/rishivejani15?tab=repositories">GitHub</a>.</p>
-</details>
-
----
-
-## 🏅 Certifications & Achievements
-
-- Winner, Runner up, and Finalist in 10+ coding, quiz & hackathon contests
-- Multiple event leadership and volunteering experiences
-- CodeChef 4⭐ | LeetCode Top 1% | Hackerrank Expert | Codeforces Expert
+- **[Online Multiplayer Quiz Game](https://quizify-go7t.onrender.com/):** Python Flask + HTML/CSS/JavaScript, real-time secure quiz, leaderboards, and instant feedback.
+- **[Story Verse](https://quizify-go7t.onrender.com/):** Hackathon-built, interactive story sharing platform.
 
 ---
 
